@@ -1,0 +1,72 @@
+
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+.title {
+  text-anchor: middle;
+}
+
+.axis text {
+  font-size: 13px;
+}
+
+.bar {
+  opacity: .4;
+}
+
+.dropdown-btn {
+    display: inline-block;
+}
+
+.legend rect {
+  fill:white;
+  stroke:black;
+  opacity:0.8;
+}
+
+.d3-tip {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+body {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+h1, h5, p, li {
+    font-weight: 100;
+    margin: 0;
+}
+
+p, li {
+    font-size: 16px;
+}
+
+.jumbotron {
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+main {
+    margin: 50px;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.btn-group {
+  padding-left: 70px;
+}
+
+#description {
+  padding-right: 150px;
+  padding-left: 80px;
+  padding-top: 50px;
+}
